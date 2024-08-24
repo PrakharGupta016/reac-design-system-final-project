@@ -4,13 +4,11 @@ import { Layers } from "../1-layers-pattern/start"
 export const SideBar = ()=>{
     return(<>
         <Layers>
-            <button>profile</button>
-            <button>dc</button>
-            <button>cds</button>
-            <button>sdc</button>
-            <button>cds</button>
-
-
+            <span>profile</span>
+            <span>dc</span>
+            <span>cds</span>
+            <span>sdc</span>
+            <span>cds</span>
         </Layers>
     
     
